@@ -4,8 +4,9 @@ My name is Lynx, I am a Game Developer as well as a Terraria Modder which my <a 
 
 &nbsp;
 
-<h3 align="center">Terraria Modding</h3>
+<h3 align="center">Projects</h3>
 
 |✨✨✨✨✨✨✨✨✨✨|✨✨✨✨✨✨✨✨✨✨|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 |[Tutorial Mod](https://github.com/FoolsLynx/TutorialMod)<br>Source Code from How to Make a Mod in tModLoader 1.4|[Temporal](https://github.com/FoolsLynx/Temporal)<br>Source Code for the 1.4 Terraria mod being developed |
+|[My Cat is a Demon](https://github.com/FoolsLynx/MyCatIsADemon)<br>Source Code for small game called "My Cat is a Demon"| Empty Space~ |
