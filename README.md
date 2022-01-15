@@ -7,10 +7,10 @@ My name is Lynx, I am a Game Developer as well as a Terraria Modder which my <a 
 <table>
   <tr>
     <th>
-      <p align="center">:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:</p>
+      :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
     </th>
     <th>
-      <p align="center">:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:</p>
+      :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
     </th>
   </tr>
   <tr>
