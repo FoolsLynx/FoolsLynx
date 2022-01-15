@@ -5,6 +5,6 @@ My name is Lynx, I am a Game Developer as well as a Terraria Modder which my <a 
 </p>
 <p> </p>
 | ✨✨✨✨✨✨✨✨ | ✨✨✨✨✨✨✨✨|
-| --- | --- |
+| ------------------- | ------------------ |
 | Tutorial Mod | Contains source code from How to Make a Mod in tModLoader 1.4 |
 | ??? | ??? |
