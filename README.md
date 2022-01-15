@@ -6,6 +6,14 @@ My name is Lynx, I am a Game Developer as well as a Terraria Modder which my <a 
 
 <table>
   <tr>
+    <th>
+      :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+    </th>
+    <th>
+      :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+    </th>
+  </tr>
+  <tr>
     <th>Project</th>
     <th>Description</th>
   </tr>
